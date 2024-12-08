@@ -12,6 +12,6 @@ int main()
 	one.deletion(1000);
 	one.Display();
 
-	system("pause");
+	
 	return 0;
 }
